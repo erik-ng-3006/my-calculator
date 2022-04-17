@@ -1,0 +1,15 @@
+.footer {
+	color: #828282;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	font-weight: 400;
+	font-size: 1.2rem;
+	left: 50;
+	transform: translateX(50%);
+}
+
+.footer a {
+	color: inherit;
+	font-weight: bold;
+}

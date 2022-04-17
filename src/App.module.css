@@ -1,0 +1,37 @@
+.calculator {
+	width: 300px;
+	background-color: white;
+}
+
+.output {
+	background-color: black;
+	color: white;
+	text-align: right;
+	padding: 1rem 1rem 1rem 0;
+}
+
+.prev-operand {
+	font-size: 16px;
+	margin-bottom: 0.5rem;
+}
+
+.buttons-grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 2px;
+	min-height: 350px;
+}
+.buttons-grid > div {
+	background-color: #bbdefb;
+	display: grid;
+	place-items: center;
+}
+
+.buttons-grid > div:hover {
+	background-color: rgba(187, 222, 251, 0.8);
+	cursor: pointer;
+}
+
+.span-two {
+	grid-column: span 2;
+}

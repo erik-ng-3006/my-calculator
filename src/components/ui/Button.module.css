@@ -1,0 +1,10 @@
+.btn {
+	background-color: #bbdefb;
+	display: grid;
+	place-items: center;
+}
+
+.btn:hover {
+	background-color: rgba(187, 222, 251, 0.8);
+	cursor: pointer;
+}
