@@ -2,9 +2,10 @@
 	background-color: #bbdefb;
 	display: grid;
 	place-items: center;
+	transition: background-color 200ms ease-out;
 }
 
 .btn:hover {
-	background-color: rgba(187, 222, 251, 0.8);
+	background-color: rgba(187, 222, 251, 0.7);
 	cursor: pointer;
 }

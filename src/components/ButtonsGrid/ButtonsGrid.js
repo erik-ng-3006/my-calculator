@@ -28,9 +28,9 @@ const ButtonsGrid = () => {
 			/>
 			<Button
 				id='divide'
-				label='÷'
+				label='/'
 				onClick={() => {
-					dispatch(expressionActions.inputOperation('÷'));
+					dispatch(expressionActions.inputOperation('/'));
 				}}
 			/>
 			<Button
