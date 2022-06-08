@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/erik-ng-3006/country-quiz-app/blob/main/public/screenshot.png)
+![screenshot](https://github.com/erik-ng-3006/my-calculator/blob/main/public/Screenshot.png)
 
 ### Built With
 
